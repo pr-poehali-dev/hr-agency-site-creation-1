@@ -139,7 +139,7 @@ const Index = () => {
               <div className="w-10 h-10 rounded-xl gradient-purple flex items-center justify-center">
                 <Icon name="Users" className="text-white" size={24} />
               </div>
-              <span className="text-2xl font-bold gradient-text">TalentHub</span>
+              <span className="text-2xl font-bold gradient-text">HR-Boost</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="text-sm font-medium hover:text-primary transition-colors">Главная</a>
@@ -161,10 +161,10 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-              Найдём идеальный <span className="gradient-text">талант</span> для вашего бизнеса
+              Ускорим ваш <span className="gradient-text">HR-процесс</span> в 10 раз
             </h1>
             <p className="text-xl text-muted-foreground mb-8 animate-fade-in">
-              Профессиональный подбор персонала с использованием современных технологий и персонализированным подходом
+              Технологичное HR-агентство с автоматизированным подбором персонала и AI-аналитикой компетенций
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
               <Button size="lg" className="gradient-purple text-white border-0 text-lg px-8">
@@ -198,8 +198,8 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-6">О нашем агентстве</h2>
             <p className="text-lg text-muted-foreground">
-              TalentHub — это современное HR-агентство, которое использует передовые технологии для поиска и подбора талантов. 
-              Мы соединяем лучших специалистов с компаниями мечты.
+              HR-Boost — это технологичное HR-агентство нового поколения. Используем AI и автоматизацию для ускорения процессов подбора персонала. 
+              Закрываем вакансии в 3 раза быстрее традиционных агентств.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -598,7 +598,7 @@ const Index = () => {
                 </div>
                 <div>
                   <div className="font-medium mb-1">Email</div>
-                  <div className="text-sm text-muted-foreground">info@talenthub.ru</div>
+                  <div className="text-sm text-muted-foreground">info@hr-boost.ru</div>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -632,10 +632,10 @@ const Index = () => {
                 <div className="w-10 h-10 rounded-xl gradient-purple flex items-center justify-center">
                   <Icon name="Users" className="text-white" size={24} />
                 </div>
-                <span className="text-xl font-bold">TalentHub</span>
+                <span className="text-xl font-bold">HR-Boost</span>
               </div>
               <p className="text-sm text-background/70">
-                Современное HR-агентство для подбора лучших талантов
+                Технологичное HR-агентство нового поколения
               </p>
             </div>
             <div>
@@ -665,7 +665,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-background/20 pt-8 text-center text-sm text-background/70">
-            <p>© 2024 TalentHub. Все права защищены.</p>
+            <p>© 2024 HR-Boost. Все права защищены.</p>
           </div>
         </div>
       </footer>
